@@ -1,27 +1,15 @@
-# 🐦 Twitter Clone
+# 🐲 Twitter Clone
 
-O **Twitter Clone** é uma aplicação web inspirada no Twitter, onde os usuários podem **criar posts**, **ver posts de outros usuários**, e **comentar** sobre eles.  
-
-O projeto foi desenvolvido com **React** no frontend e **Node.js/Express** no backend, unindo consumo de API, rotas, componentes reutilizáveis e estilização moderna.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-### Frontend
-- React  
-- React Router DOM  
-- Axios  
-- CSS Modularizado  
-
-### Backend
-- Node.js  
-- Express  
-- CORS  
-- Nodemon  
+Uma aplicação web inspirada no Twitter, permitindo **criar posts**, **ver publicações de outros usuários** e **comentar**.  
+Desenvolvido com **React** no frontend e **Node.js/Express** no backend.
 
 ---
 
+## 🚀 Tecnologias
+**Frontend:** React, React Router DOM, Axios, CSS Modularizado  
+**Backend:** Node.js, Express, CORS, Nodemon
+
+---
 ## 📂 Estrutura do Projeto
 ```bash
 twitter-clone/ <br>
@@ -99,6 +87,5 @@ O frontend consome os endpoints do backend para listar e criar posts. <br>
 O CSS é moderno, com sombras, transições e cores inspiradas no Twitter. <br>
 
 ---
-
-## 👨‍💻 Autor 
-Sara Vieira Silva – Estudante de informática, programação e desenvolvimento web.
+Pedro Lucas Pereira de Sousa
+Estudante de informática, apaixonado por programação e desenvolvimento web.
